@@ -1,0 +1,14 @@
+# Chrome profile with the logged-in WhatsApp session — NEVER commit
+perfil_chrome_whatsapp/
+
+# Generated files
+bom_dia.log
+historico.json
+imagens_enviadas/
+imagens_reserva/
+erro_*.png
+
+# Python
+__pycache__/
+*.pyc
+.venv/

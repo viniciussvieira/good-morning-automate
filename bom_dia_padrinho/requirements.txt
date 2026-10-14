@@ -1,0 +1,5 @@
+# Instalar com: py -m pip install -r requirements.txt
+selenium>=4.11   # 4.11+ baixa o chromedriver sozinho (Selenium Manager)
+requests
+pillow           # converte a imagem para JPG
+pywin32          # área de transferência do Windows (colar a imagem como foto)
